@@ -1,4 +1,4 @@
-#food website using tailwind css and react
+## Food website using tailwind css and react
 It was made for practice but works perfectly
 
 ## Available Scripts
