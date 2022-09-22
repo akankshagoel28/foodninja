@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#food website using tailwind css and react
+It was made for practice but works perfectly
 
 ## Available Scripts
 
